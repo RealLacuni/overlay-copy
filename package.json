@@ -1,6 +1,6 @@
 {
   "name": "overlay-x",
-  "version": "1.0.1",
+  "version": "",
   "license": "GNU GPLv3",
   "private": true,
   "main": "main/electron/index.js",
