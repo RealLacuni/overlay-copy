@@ -62,7 +62,7 @@ const Home = () => {
         </div>
       </div>
       <div className={'absolute bottom-0 right-0 p-1 text-xs text-gray-500'}>
-        <div className={'flex flex-row align-text-bottom gap-1 items-end'}>{window.Main.GetVersion()}</div>
+        {/* <div className={'flex flex-row align-text-bottom gap-1 items-end'}>{window.Main.GetVersion()}</div> */}
       </div>
     </div>
   );

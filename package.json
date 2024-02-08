@@ -98,6 +98,7 @@
     ],
     "mac": {
       "icon": "icon-512.png",
+      "artifactName": "overlay-x.${ext}",
       "target": [
         "dmg",
         "zip"
@@ -105,6 +106,7 @@
     },
     "win": {
       "icon": "icon-512.png",
+      "artifactName": "overlay-x.${ext}",
       "asar": true,
       "target": [
         "portable"
@@ -112,6 +114,7 @@
     },
     "linux": {
       "icon": "icon-512.png",
+      "artifactName": "overlay-x.${ext}",
       "target": [
         "AppImage",
         "deb"
